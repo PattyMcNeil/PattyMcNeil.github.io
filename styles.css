@@ -2,7 +2,7 @@
 */
 
 body {
-   background: linear-gradient(to bottom, #404040, #2b2b2b);
+   background: linear-gradient(to bottom, #f0f0f0, #d9d9d9);
    font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -11,8 +11,8 @@ header {
    font-size: 2em;
    font-weight: bold;
    padding: 20px;
-   background-color: #a9a9a9;
-   color: ghostwhite;
+   background-color: #444;
+   color: white;
 }
 
 nav ul {
@@ -40,7 +40,7 @@ nav ul li a:hover {
 section {
    padding: 20px;
    margin: 15px 0;
-   background-color: #f8f8ff;
+   background-color: white;
    border: 1px solid #ccc;
    box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
 }
@@ -48,7 +48,7 @@ section {
 footer {
    font-size: 0.8em;
    text-align: center;
-   background-color: #f8f8ff;
-   color: black;
+   background-color: #222;
+   color: white;
    padding: 10px;
 }
