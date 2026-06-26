@@ -40,7 +40,7 @@ nav ul li a:hover {
 section {
    padding: 20px;
    margin: 15px 0;
-   background-color: f8f8ff;
+   background-color: #f8f8ff;
    border: 1px solid #ccc;
    box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
 }
@@ -48,7 +48,7 @@ section {
 footer {
    font-size: 0.8em;
    text-align: center;
-   background-color: #222;
-   color: white;
+   background-color: #f8f8ff;
+   color: black;
    padding: 10px;
 }
